@@ -1,0 +1,24 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	background:lightpink;
+}
+.box{
+	height:80px;
+	width:150px;
+	background:white;
+	text-align:center;
+	border-radius:15px;
+	margin:10px;
+	padding:20px;
+}
+.mainecontent{
+	justify-content:center;
+	display:flex;
+}
+.box h1{
+	color:#00A651;
+	padding:10px;
+}
